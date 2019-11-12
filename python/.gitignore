@@ -1,0 +1,7 @@
+*.env
+venv
+__pycache__
+.coverage
+.idea
+*.pyc
+/prometheus_multiproc_dir
